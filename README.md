@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [www.darupong.com](www.darupong.com)
 
-- ⚡ Fun fact **piz call me "Sleepy Programmer?"**
+- ⚡ Fun fact **call me "Sleepy Programmer?"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
