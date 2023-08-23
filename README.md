@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darupong&label=Profile%20views&color=0e75b6&style=flat" alt="darupong" /> </p>
 
-- 🌱 I’m currently learning **Next.js, Nest.js, Dev Ops, Cyber Security**
+- 🌱 I’m currently learning **Next.js, Nest.js, Dev Ops and Cyber Security**
 
 - 💬 Ask me about **React, Game Engine, Historical(?)**
 
